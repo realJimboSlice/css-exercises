@@ -1,0 +1,15 @@
+.deez {
+    background-color: black;
+    color: white;
+}
+
+.nuts {
+    background-color: yellow;
+    color: black;
+}
+
+.deez, .nuts {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+
+}
