@@ -1,0 +1,19 @@
+.classy {
+    background-color: rgb(253, 152, 152);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id-one {
+    color: blue;
+    font-size: 36px;
+}
+
+.classy.junior {
+    font-size: 26px;
+}
+
+#id-two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
